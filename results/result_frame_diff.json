@@ -1,0 +1,79 @@
+{
+  "video_path": "sample.mkv",
+  "method": "frame_diff",
+  "fps": 60.0,
+  "total_frames": 10802,
+  "duration": 180.03333333333333,
+  "segments": [
+    {
+      "start_time": 0.0,
+      "end_time": 0.9333333333333333,
+      "confidence": 0.896,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 23.883333333333333,
+      "end_time": 26.216666666666665,
+      "confidence": 0.688,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 26.783333333333335,
+      "end_time": 27.833333333333332,
+      "confidence": 0.833,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 28.533333333333335,
+      "end_time": 30.616666666666667,
+      "confidence": 0.901,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 45.55,
+      "end_time": 48.43333333333333,
+      "confidence": 0.873,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 54.55,
+      "end_time": 55.45,
+      "confidence": 0.595,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 58.05,
+      "end_time": 59.75,
+      "confidence": 0.88,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 77.28333333333333,
+      "end_time": 78.3,
+      "confidence": 0.875,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 97.73333333333333,
+      "end_time": 99.91666666666667,
+      "confidence": 0.83,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 122.36666666666666,
+      "end_time": 123.21666666666667,
+      "confidence": 0.652,
+      "method": "frame_diff"
+    },
+    {
+      "start_time": 157.66666666666666,
+      "end_time": 158.45,
+      "confidence": 0.694,
+      "method": "frame_diff"
+    }
+  ],
+  "metadata": {
+    "threshold": 5.0,
+    "min_stutter_frames": 30
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "video_path": "sample.mkv",
+  "method": "combined",
+  "fps": 60.0,
+  "total_frames": 10802,
+  "duration": 180.03333333333333,
+  "segments": [
+    {
+      "start_time": 0.0,
+      "end_time": 1.5,
+      "confidence": 0.896,
+      "method": "combined"
+    },
+    {
+      "start_time": 23.883333333333333,
+      "end_time": 30.616666666666667,
+      "confidence": 0.936,
+      "method": "combined"
+    },
+    {
+      "start_time": 45.55,
+      "end_time": 48.5,
+      "confidence": 0.873,
+      "method": "combined"
+    },
+    {
+      "start_time": 54.55,
+      "end_time": 55.45,
+      "confidence": 0.608,
+      "method": "combined"
+    },
+    {
+      "start_time": 58.0,
+      "end_time": 60.0,
+      "confidence": 0.88,
+      "method": "combined"
+    },
+    {
+      "start_time": 68.5,
+      "end_time": 69.5,
+      "confidence": -0.259,
+      "method": "combined"
+    },
+    {
+      "start_time": 77.0,
+      "end_time": 78.5,
+      "confidence": 0.934,
+      "method": "combined"
+    },
+    {
+      "start_time": 95.0,
+      "end_time": 100.5,
+      "confidence": 0.842,
+      "method": "combined"
+    },
+    {
+      "start_time": 122.36666666666666,
+      "end_time": 123.21666666666667,
+      "confidence": 0.768,
+      "method": "combined"
+    },
+    {
+      "start_time": 151.5,
+      "end_time": 153.5,
+      "confidence": -0.011,
+      "method": "combined"
+    },
+    {
+      "start_time": 157.66666666666666,
+      "end_time": 158.45,
+      "confidence": 0.813,
+      "method": "combined"
+    },
+    {
+      "start_time": 168.5,
+      "end_time": 170.5,
+      "confidence": 0.056,
+      "method": "combined"
+    },
+    {
+      "start_time": 171.71666666666667,
+      "end_time": 172.38333333333333,
+      "confidence": 0.674,
+      "method": "combined"
+    },
+    {
+      "start_time": 179.15,
+      "end_time": 180.03333333333333,
+      "confidence": 0.744,
+      "method": "combined"
+    }
+  ],
+  "metadata": {
+    "frame_diff_count": 11,
+    "ssim_count": 12,
+    "ratio_count": 9,
+    "combined_count": 14
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "video_path": "../sample.mkv",
+  "method": "optical_flow",
+  "fps": 60.0,
+  "total_frames": 10802,
+  "duration": 180.03333333333333,
+  "segments": [
+    {
+      "start_time": 26.783333333333335,
+      "end_time": 27.766666666666666,
+      "confidence": 0.739,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 28.616666666666667,
+      "end_time": 30.516666666666666,
+      "confidence": 0.888,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 46.15,
+      "end_time": 46.666666666666664,
+      "confidence": 0.678,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 47.56666666666667,
+      "end_time": 48.3,
+      "confidence": 0.813,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 58.5,
+      "end_time": 59.75,
+      "confidence": 0.851,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 77.28333333333333,
+      "end_time": 78.26666666666667,
+      "confidence": 0.899,
+      "method": "optical_flow"
+    },
+    {
+      "start_time": 98.16666666666667,
+      "end_time": 99.6,
+      "confidence": 0.786,
+      "method": "optical_flow"
+    }
+  ],
+  "metadata": {
+    "threshold": 0.5,
+    "min_stutter_frames": 30
+  }
+}

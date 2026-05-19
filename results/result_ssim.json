@@ -1,0 +1,85 @@
+{
+  "video_path": "sample.mkv",
+  "method": "ssim",
+  "fps": 60.0,
+  "total_frames": 10802,
+  "duration": 180.03333333333333,
+  "segments": [
+    {
+      "start_time": 0.0,
+      "end_time": 0.9333333333333333,
+      "confidence": 0.881,
+      "method": "ssim"
+    },
+    {
+      "start_time": 27.266666666666666,
+      "end_time": 27.833333333333332,
+      "confidence": 0.802,
+      "method": "ssim"
+    },
+    {
+      "start_time": 28.533333333333335,
+      "end_time": 30.616666666666667,
+      "confidence": 0.936,
+      "method": "ssim"
+    },
+    {
+      "start_time": 46.15,
+      "end_time": 48.43333333333333,
+      "confidence": 0.862,
+      "method": "ssim"
+    },
+    {
+      "start_time": 54.55,
+      "end_time": 55.166666666666664,
+      "confidence": 0.608,
+      "method": "ssim"
+    },
+    {
+      "start_time": 58.5,
+      "end_time": 59.75,
+      "confidence": 0.837,
+      "method": "ssim"
+    },
+    {
+      "start_time": 77.25,
+      "end_time": 78.36666666666666,
+      "confidence": 0.934,
+      "method": "ssim"
+    },
+    {
+      "start_time": 98.16666666666667,
+      "end_time": 99.6,
+      "confidence": 0.842,
+      "method": "ssim"
+    },
+    {
+      "start_time": 122.36666666666666,
+      "end_time": 123.01666666666667,
+      "confidence": 0.768,
+      "method": "ssim"
+    },
+    {
+      "start_time": 157.71666666666667,
+      "end_time": 158.26666666666668,
+      "confidence": 0.813,
+      "method": "ssim"
+    },
+    {
+      "start_time": 171.71666666666667,
+      "end_time": 172.38333333333333,
+      "confidence": 0.674,
+      "method": "ssim"
+    },
+    {
+      "start_time": 179.15,
+      "end_time": 180.03333333333333,
+      "confidence": 0.744,
+      "method": "ssim"
+    }
+  ],
+  "metadata": {
+    "threshold": 0.95,
+    "min_stutter_frames": 30
+  }
+}
